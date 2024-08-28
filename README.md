@@ -3,10 +3,10 @@ A repository for teaching UniBen students about open reproducible science.
 
 # How to Use
 1. **Download the `.ipynb` file:**
-   - Click on the ipynb file provided in this repository and download the Jupyter Notebook file (`.ipynb`).
+   - Click on the link provided to download the Jupyter Notebook file (`.ipynb`).
 
 2. **Upload the `.ipynb` file to JupyterLab:**
-   - Go to JupyterLab.
+   - Go to [JupyterLab](https://jupyter.org/try-jupyter/lab/).
    - Click on the "Upload" button (usually represented by an upward arrow icon).
    - Select the downloaded `.ipynb` file from your computer and upload it.
 
